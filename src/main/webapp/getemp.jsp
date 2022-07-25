@@ -7,7 +7,7 @@
 <title>Get All Employees</title>
 </head>
 <body>
-<form action="AddEmployee" method="get">
+<form action="/FirstJSPproject/EmployeeServlet" method="get">
 	
 		 <div>
 			Do you want to view all employee details:
